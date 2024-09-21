@@ -1,4 +1,4 @@
-DockPanel Suite
+DockPanel Suite (.NET core 8.0)
 ===============
 
 [![Join the chat at https://gitter.im/dockpanelsuite/dockpanelsuite](https://img.shields.io/gitter/room/dockpanelsuite/dockpanelsuite.svg?style=flat-square)](https://gitter.im/dockpanelsuite/dockpanelsuite?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
